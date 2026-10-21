@@ -12,3 +12,15 @@ Python source codes for my midterm period.
 
 \- Lesson3: student grade analyzer and hands-on exercise
 
+
+
+
+
+
+
+
+
+
+
+edited from the clone copy
+
